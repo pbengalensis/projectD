@@ -1,6 +1,5 @@
 # projectD
 
-tureno86
-
-FD
-FC
+-tureno86
+-FD
+-FC
